@@ -6,13 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/souradip_pal96/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/souradip-pal/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/souradipp76/
 
 ---
 

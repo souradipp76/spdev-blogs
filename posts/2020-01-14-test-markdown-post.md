@@ -53,7 +53,7 @@ And a numbered list:
 
 ## Images
 
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
+![](/images/logo.png "fast.ai's logo")
 
 ## Code
 
